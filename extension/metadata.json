@@ -1,5 +1,5 @@
 {
-  "uuid": "fuck-screenshot@local",
+  "uuid": "fuck-screenshot@masterzack69",
   "name": "Fuck Screenshot",
   "description": "Suppresses the built-in GNOME Shell screenshot captured notification banner",
   "shell-version": ["46", "47", "48", "49", "50"],
